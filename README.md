@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # aulagit-turma13
 <h1>ABEL LUCAS CAVALCANTE DE MELO</H1>
  <ul><LI>experiência</li></ul>
@@ -16,3 +17,6 @@
   <LI>projetos</li>
   <li>javascript</li>
   <p> obrigado pela visita até a próxima</p>
+=======
+<h1 font-color:blue;># olá, leia aqui sobre esse projeto</h1>
+>>>>>>> e1e97730198f61ba07479b75329b0a20bc35756d
